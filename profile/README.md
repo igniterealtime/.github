@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/igniterealtime/.github/main/igniterealtime.png" />
+<img src="https://github.com/igniterealtime/.github/raw/master/igniterealtime.png" />
 </p>
 
 <hr />
